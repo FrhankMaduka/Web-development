@@ -1,0 +1,90 @@
+nav {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: small;
+}
+
+.nav a {
+    float: left;
+}
+
+.stick {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.just {
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 1500;
+}
+
+.anon {
+    color:cadetblue;
+    padding-left: 50px;
+}
+
+.list {
+color: white;
+padding-left: 50px;    
+}
+
+.trust {
+    text-align: right;
+    padding-right: 300px;
+    color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kiev {
+    float: right;
+    padding-right: 50px;
+    font-size: x-large;
+    font-weight: 500;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.worth {
+    color: white;
+    padding: 20px;
+    color: cadetblue;
+    text-align: center;
+}
+
+.image {
+    padding: 50px;
+    margin-bottom: 100px;
+}
+
+.all {
+    background-color: black;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: cadetblue;
+}
+
+.footer div a {
+    background-color: white; 
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 2em;
+    text-decoration: none;
+}
+
+.dev {
+    background-color: cadetblue;
+    text-align: center;
+    padding: 5px;
+}
