@@ -1,90 +1,84 @@
-nav {
-    background-color: cadetblue;
-    text-align: center;
-}
-
-nav a {
-    text-decoration: none;
+body {
+    background-color: black;
     color: white;
-    padding: 10px;
-    font-size: small;
-}
-
-.nav a {
-    float: left;
-}
-
-.stick {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
 }
 
 .just {
-    color: blue;
-    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.just a {
+    color: white;
+    padding-left: 13%;
     font-size: xx-large;
     font-weight: 1500;
+    text-decoration: none;
+    margin-bottom: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .anon {
-    color:cadetblue;
-    padding-left: 50px;
+    padding-left: 5%;
+    margin-bottom: 50px;
 }
 
-.list {
-color: white;
-padding-left: 50px;    
+.anon p {
+    color: cadetblue;
+}
+
+.anon h5 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #008099;
+    letter-spacing: 2px;
+    display: block;
+    padding-bottom: 20px
 }
 
 .trust {
-    text-align: right;
-    padding-right: 300px;
     color: cadetblue;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .kiev {
     float: right;
-    padding-right: 50px;
-    font-size: x-large;
-    font-weight: 500;
-    color:white;
-    font-family: 'Times New Roman', Times, serif;
+    margin-right: 30px;
+    max-width: 50%;
+    margin-bottom: 8%;
 }
 
-.worth {
-    color: white;
-    padding: 20px;
-    color: cadetblue;
-    text-align: center;
+.kiev h2 {
+    font-size: 28px;
+    font-family: sans-serif;
 }
 
 .image {
-    padding: 50px;
-    margin-bottom: 100px;
-}
-
-.all {
-    background-color: black;
+    padding-left: 30px;
 }
 
 .footer {
     text-align: center;
     background-color: black;
     color: cadetblue;
+    font-size: small;
 }
 
 .footer div a {
-    background-color: white; 
+    background-color: white;
     padding: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     border-radius: 2em;
     text-decoration: none;
+}
+
+.footer {
+    margin-top: 15%;
 }
 
 .dev {
     background-color: cadetblue;
     text-align: center;
-    padding: 5px;
+    padding: 2px;
 }
